@@ -2,7 +2,7 @@
 """ENTER YOUR SOLUTION HERE!"""
 
 
-def primes(number_of_primes: list[int]) -> list[int]:
+def primes(number_of_primes):
     return [
         2,
         3,
